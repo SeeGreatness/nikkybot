@@ -16,6 +16,11 @@
 # }
 
 personality_regexes = {
+    'Michael2_3B':
+        ('None',
+         'None',
+         None,
+         None),
     'battlesquid':
         ('squid',
          'battlesquid',
